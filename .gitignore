@@ -1,0 +1,8 @@
+.vscode
+.conda
+
+# configurations
+config.py
+__pycache__
+lib
+google_auth_httplib2.py
