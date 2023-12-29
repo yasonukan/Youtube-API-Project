@@ -36,6 +36,7 @@ This script demonstrates the use of the API by retrieving and displaying channel
 - `get_video_ids(channel_id, max_results)`: Retrieves a list of video IDs uploaded by a specified channel.
 
 These methods utilize the YouTube Data API's channels and search endpoints, respectively.
+## Project Analysis
 
 ## Future Improvements
 
