@@ -37,6 +37,20 @@ This script demonstrates the use of the API by retrieving and displaying channel
 
 These methods utilize the YouTube Data API's channels and search endpoints, respectively.
 ## Project Analysis
+![image](https://github.com/yasonukan/Youtube-API-Project/assets/73828987/52f4e60b-f591-4c77-8012-f75425a9212a)1
+![image](https://github.com/yasonukan/Youtube-API-Project/assets/73828987/32ae413e-aa51-4485-9ade-8a67d2f363ea)
+![image](https://github.com/yasonukan/Youtube-API-Project/assets/73828987/6b403d9b-0c25-44ae-94a9-029ac8e3ad46)
+
+
+### Sentiment Analysis
+
+![image](https://github.com/yasonukan/Youtube-API-Project/assets/73828987/1d842e0f-7678-4d24-b7e9-6309f14b5237)
+![image](https://github.com/yasonukan/Youtube-API-Project/assets/73828987/48939f6e-b34b-4f0b-a183-fe5007a2c3a2)
+
+
+
+
+
 
 ## Future Improvements
 
