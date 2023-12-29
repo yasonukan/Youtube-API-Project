@@ -60,3 +60,7 @@ These methods utilize the YouTube Data API's channels and search endpoints, resp
 
 Feel free to work on this repository and contribute your own improvements.
 
+## License
+
+License: YouTube Data API v3.
+https://developers.google.com/youtube/terms/api-services-terms-of-service
